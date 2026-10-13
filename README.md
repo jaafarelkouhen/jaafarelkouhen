@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Financial%20Data%20Science-Advanced-7C3AED?style=flat-square" alt="FinData"/>
   <img src="https://img.shields.io/badge/Quantitative%20Finance-Explorer-8B5CF6?style=flat-square" alt="Quant"/>
   <img src="https://img.shields.io/badge/AI%20Engineering-Systems-A78BFA?style=flat-square" alt="AIEng"/>
-  <img src="https://img.shields.io/badge/Location-Morocco-9D4EDD?style=flat-square" alt="Morocco"/>
+  <img src="https://img.shields.io/badge/Location-Morocco-9D4EDD?style=flat-square" alt="France"/>
 </p>
 
 <p align="center">
